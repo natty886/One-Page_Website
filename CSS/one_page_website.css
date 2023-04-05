@@ -1,0 +1,25 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.contact-form-container {
+    width: 100%;
+    padding: 10px;
+    margin: 0px auto;
+}
+
+.contact-form-container form {
+    padding: 10px 10px;
+    width: 100%;
+    margin: 2% auto;
+}
+
+.contact-form-container input[type="text"] {
+    padding: 2% 1% 2% 3%;
+    width: 80%;
+    border: 1px solid #1d1b1b;
+    border-radius: 25px;
+    margin: 7px 1em;
+    background: whitesmoke;
+}
